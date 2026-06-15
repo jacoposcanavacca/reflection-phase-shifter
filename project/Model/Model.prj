@@ -1,0 +1,13 @@
+{
+   "Author": "Jacopo",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Frequency Domain",
+   "Last Solver Type Abb": "f-res-tet",
+   "Mesh Cells": "",
+   "Mesh Type": "Tetrahedral",
+   "Modeler Unique ID": "5:project.cst?b9e64922146070022f0cf717b8babcfc?28155:numberofparameters=8:port=1>mode=1>zre=0>zim=0?port=1>mode=2>zre=0>zim=0?port=2>mode=1>zre=0>zim=0?port=2>mode=2>zre=0>zim=0:::lline?line_thickness?line_width_35ohm?line_width_50ohm?quarter_wave?substrate_height?substrate_thickness?substrate_width",
+   "ProjectVersion": "'# MWS Version: Version 2025.0 - Aug 30 2024 - ACIS 34.0.1 -",
+   "Results": "Unavailable",
+   "Version": "3"
+}

@@ -1,0 +1,69 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrameReduced",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "substrate_width",
+         "type": "float",
+         "value": 35.0
+      },
+      {
+         "name": "substrate_thickness",
+         "type": "float",
+         "value": 1.524
+      },
+      {
+         "name": "line_width_50ohm",
+         "type": "float",
+         "value": 3.44
+      },
+      {
+         "name": "line_thickness",
+         "type": "float",
+         "value": 0.035
+      },
+      {
+         "name": "quarter_wave",
+         "type": "float",
+         "value": 20.5
+      },
+      {
+         "name": "line_width_35ohm",
+         "type": "float",
+         "value": 5.78
+      },
+      {
+         "name": "state",
+         "type": "float",
+         "value": 31.0
+      },
+      {
+         "name": "Rp1",
+         "type": "float",
+         "value": 7.0
+      },
+      {
+         "name": "Rp2",
+         "type": "float",
+         "value": 10.0
+      },
+      {
+         "name": "Cp",
+         "type": "float",
+         "value": 0.5
+      },
+      {
+         "name": "Ls",
+         "type": "float",
+         "value": 0.27
+      },
+      {
+         "name": "Lline",
+         "type": "float",
+         "value": 9.374
+      }
+   ],
+   "outputVariables": []
+}

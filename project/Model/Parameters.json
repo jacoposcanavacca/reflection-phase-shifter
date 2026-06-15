@@ -1,0 +1,80 @@
+{
+    "parameters": [
+        {
+            "expr": "35",
+            "name": "substrate_width",
+            "value": "35"
+        },
+        {
+            "expr": "quarter_wave + Lline",
+            "name": "substrate_height",
+            "value": "29.874"
+        },
+        {
+            "expr": "1.524",
+            "name": "substrate_thickness",
+            "value": "1.524"
+        },
+        {
+            "expr": "3.44",
+            "name": "line_width_50ohm",
+            "value": "3.44"
+        },
+        {
+            "expr": "0.035",
+            "name": "line_thickness",
+            "value": "0.035"
+        },
+        {
+            "expr": "20.5",
+            "name": "quarter_wave",
+            "value": "20.5"
+        },
+        {
+            "expr": "5.78",
+            "name": "line_width_35ohm",
+            "value": "5.78"
+        },
+        {
+            "expr": "0.6 +(state*0.129)",
+            "name": "Cs",
+            "value": "4.599"
+        },
+        {
+            "expr": "31",
+            "name": "state",
+            "value": "31"
+        },
+        {
+            "expr": "20 / (state + 20 / (state + 0.7)) + 0.7",
+            "name": "Rs",
+            "value": "1.33229280941458"
+        },
+        {
+            "expr": "7",
+            "name": "Rp1",
+            "value": "7"
+        },
+        {
+            "expr": "10",
+            "name": "Rp2",
+            "value": "10"
+        },
+        {
+            "expr": "0.5",
+            "name": "Cp",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.27",
+            "name": "Ls",
+            "value": "0.27"
+        },
+        {
+            "expr": "9.374",
+            "name": "Lline",
+            "value": "9.374"
+        }
+    ],
+    "version": 1
+}

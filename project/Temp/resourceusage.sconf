@@ -1,0 +1,19 @@
+FeatureKeywords:string:modeler:load:fullloading, la:macromodel, la:macromodel:nmaxthreads:6, mesh:workflow:nru, mesh:workflow:srf2vol, mesh:workflow:boolean, mesh:workflow:boolean:2025plus, mesh::attributes:rstepw, mesh:workflow:cad2srf, mesh:workflow:cadsurf, acceleration:cpu:6, acceleration:cpudevices:1, solver:hf:fd:task:1, monitor:resultfilemap:load, solver:hf:fd:meshenhancement, source:waveguide port:lossy:si, source:waveguide port:lossy:vol, la:precond:pdss7, DenseInitDangerousDim, monitor:resultfilemap:save, la:direct, la:parallel_excitation:block, mesh:tet:adaptive:anisotropicedge, mf::adaptive_modetracking_block, mf:nonlinear:newton, la:precond:pdss7:fallback2double, solver:hf:fd:mor, FESystemAssembling:FETool, background:normal, boundary:electric:xmax, boundary:electric:xmin, boundary:electric:ymax, boundary:electric:ymin, boundary:electric:zmax, boundary:electric:zmin, material:SI:generalized model, material:SI:lossy metal, material:disp:eps, material:disp:modelnth, material:rho, mesh:tet, mesh:tet:autocurvature, mesh:tet:curved, mesh:tet:curved:3, mesh:tet:matchingportmesh, solver:hf:fd, solver:hf:fd:order:2, solver:hf:fd:portloss, solver:hf:fd:resonant, source:waveguide port:active, source:waveguide port:inhomogeneous, source:waveguide port:multipin, source:waveguide port:rom, units:Capacitance:pF, units:Conductance:S, units:Current:A, units:Frequency:GHz, units:Inductance:nH, units:Length:mm, units:Resistance:Ohm, units:Temperature:degC, units:Time:ns, units:Voltage:V, solver:pp:sparameter:sensitivityanalysis, solver:pp:sparameter:basicbranch, solver:pp:sparameter:unnorm, solver:pp:sparameter:updatebalance, SMatrix:NCutoffs, block:type:saved:MWSSCHEM, block:type:saved:CAP, block:type:saved:GND, block:type:saved:RES, block:type:saved:IND, solver:task:saved:spara, solver:task:saved:sweep, lineqssolver:setting:acceleratedrestart, lineqssolver:setting:direct, lineqssolver:setting:treecotree, mesh:tet:adaptive, block:circuit:cap, block:circuit:dispb, block:circuit:dispb:ypar, block:circuit:ind, block:circuit:port, block:circuit:res, block:impedance:freqdep, block:solver:standard, block:type:cap, block:type:extport, block:type:gnd, block:type:ind, block:type:mwsschem, block:type:res, lineqsolver:size:small:spar, solver:circuit:dense, solver:circuit:ffsweep, solver:circuit:parallelization:maximum, solver:circuit:port:freqdep, solver:circuit:port:real, solver:parametersweep, solver:task:spar:acfallback, solver:task:spar:balance, solver:task:spara, solver:task:sweep, source:circport:impedance, solver:task:pp, solver:task:saved:pp, DELETERESULTS:M0P0, mesh::background::boolean, meshloading:problem_class_only, modeler:construction_info:object_names, modeler:hidfile:diagnostics, modeler:hidfile:unique_ids, modeler:history:header_not_parsed, modeler:model:anchorpoints, modeler:model:anchorpoints:saving, meshline:hex:check_after_loading:default, TS:BusObject:UsedInThread:Schematic, modeler:load:fastloading, modeler:model:anchorpoints:loading, DELETERESULTS:M000, modeler:boolean:add, modeler:variables:fastrebuild, modeler:variables:rebuild, DELETERESULTS:PARAMETRIC
+LastWorkflowState:string:tetmesh:success
+solver_hf_mor/InitialFreePhysicalInMB:int:23675
+solver_hf_mor/MaxResidentSizeInMB:int:480
+solver_hf_mor/MaxResidentSizeMiB:int:430
+solver_hf_mor/MinFreePhysicalInMB:int:23273
+solver_hf_tet_fd/InitialFreePhysicalInMB:int:24063
+solver_hf_tet_fd/MaxResidentSizeInMB:int:718
+solver_hf_tet_fd/MaxResidentSizeMiB:int:661
+solver_hf_tet_fd/MinFreePhysicalInMB:int:23366
+solver_pp/InitialFreePhysicalInMB:int:23903
+solver_pp/MaxResidentSizeInMB:int:49
+solver_pp/MaxResidentSizeMiB:int:28
+solver_pp/MinFreePhysicalInMB:int:23874
+tetmesh/InitialFreePhysicalInMB:int:24057
+tetmesh/MaxResidentSizeInMB:int:52
+tetmesh/MaxResidentSizeMiB:int:28
+tetmesh/MinFreePhysicalInMB:int:24037
+---
